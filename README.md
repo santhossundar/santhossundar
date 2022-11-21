@@ -3,19 +3,17 @@
   
 <pre>class about():
 
-    def __init__(self, name, age, study, university):
+    def __init__(self, name, study, university):
       self.name = name
-      self.age = age
       self.study = study
       self.university = university
       
     def whoAmI(self):
       print("I am "+ self.name)
-      print(self.age+" years old")
       print("Currently doing "+ self.study +" in " + self.university)
 
 
-aboutMe = about("Santhos", "23", "Software Engineering", "University of Kelaniya")
+aboutMe = about("Santhos", "Software Engineering", "University of Kelaniya")
 aboutMe.whoAmI()
 
 </pre>
