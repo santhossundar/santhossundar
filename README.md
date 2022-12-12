@@ -20,7 +20,7 @@ aboutMe.whoAmI()
 </p>
   
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=santhossundar" alt="https://github.com/santhossundar" />
+  <img src="https://komarev.com/ghpvc/?username=santhossunthar" alt="https://github.com/santhossunthar" />
 </p>
 
 <h2  align="center">📫 Reach me on</h2>
