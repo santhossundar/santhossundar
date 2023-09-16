@@ -1,5 +1,6 @@
 <h1 align='center'> Welcome to my profile! :wave:</h1>
-<p align='left'>
+<p align='center'>
+  Enthusiasm works, Knowledge not!
 </p>
   
 <p align="center"> 
