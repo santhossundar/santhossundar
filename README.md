@@ -1,20 +1,5 @@
-<h1 align='center'> Hi folks! :wave:</h1>
+<h1 align='center'> Welcome to my profile! :wave:</h1>
 <p align='left'>
-
-<pre>class about():
-    def __init__(self, name, study, university):
-      self.name = name
-      self.study = study
-      self.university = university
-      
-    def whoAmI(self):
-      print("I am "+ self.name)
-      print("Currently doing "+ self.study +" in " + self.university)
-
-aboutMe = about("Santhos", "Software Engineering", "University of Kelaniya")
-aboutMe.whoAmI()
-
-</pre>
 </p>
   
 <p align="center"> 
