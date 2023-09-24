@@ -1,6 +1,6 @@
 <h1 align='center'> You are Always Welcome Here! :wave:</h1>
 <p align='center'>
-  Enthusiasm works, Knowledge does not!
+  Enthusiasm works, Does Knowledge??? 
 </p>
   
 <p align="center"> 
